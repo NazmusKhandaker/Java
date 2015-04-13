@@ -1,0 +1,33 @@
+Student Name: sdf asdf
+Student ID: asdf
+Student Course: Software Engineering
+Module code: CTEC3902
+Module name: Rigerous Systems
+Credit: 15
+
+Module code: CTEC3903
+Module name: Software Development Methods
+Credit: 15
+
+Module code: IMAT3451
+Module name: Computing Project
+Credit: 30
+
+Module code: IMAT3426
+Module name: Information Systems Strategy and Services
+Credit: 30
+
+Module code: IMAT3406
+Module name: Fuzzy Logic and Knowledge Based systems
+Credit: 15
+
+Module code: IMAT3429
+Module name: Privacy and Data Protection
+Credit: 15
+
+Your  reserved module list: 
+
+Module code: CTEC3604
+Module name: Multi-service Networks
+Credit: 30
+

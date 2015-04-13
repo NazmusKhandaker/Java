@@ -1,0 +1,15 @@
+<CTEC3903><Software Development Methods><15><true>
+<IMAT3451><Computing Project><30><true>
+<CTEC3902><Rigerous Systems><15><false>
+<CTEC3110><Secure Web Application Development><15><false>
+<CTEC3426><Telematics><15><false>
+<CTEC3604><Multi-service Networks><30><false>
+<IMAT3404><Mobile Robotics><15><false>
+<IMAT3406><Fuzzy Logic and Knowledge Based systems><15><false>
+<IMAT3429><Privacy and Data Protection><15><false>
+<IMAT3608><Mobile Games Development><30><false>
+<IMAT3426><Information Systems Strategy and Services><30><false>
+<end>
+
+//note - you may move <end> up to only obtain a subset of the elements, e.g.
+if you move it to line 3, then you will only read in Baked Beans and Potatoes
